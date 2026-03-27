@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyses retail transaction data to understand customer purchasing behaviour and identify high-value customer segments.
 
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+
 The goal is to generate actionable insights that support marketing strategy, customer retention, and business decision-making.
 
 ---
