@@ -3,9 +3,17 @@
 ## Project Overview
 This project analyses retail transaction data to understand customer purchasing behaviour and identify high-value customer segments.
 
-https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
-
 The goal is to generate actionable insights that support marketing strategy, customer retention, and business decision-making.
+
+
+## Dataset
+
+The dataset used in this project exceeds GitHub file size limits and is not included in this repository.
+
+You can access the original dataset here:  
+[Kaggle Dataset – Retail Transactions](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
+
+The dataset contains transactional retail data including customer purchases, product information, and order details, which were used to analyse customer behaviour and perform segmentation.
 
 ---
 
